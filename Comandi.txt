@@ -1,0 +1,2 @@
+atom . x aprire un progetto nella radice in cui si trova la finestra "DOS"
+browser-sync start --server --directory --files "**/*" per far partire il "server WEB" (sempre dalla directory in cui si trova) 
